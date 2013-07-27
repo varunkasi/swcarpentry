@@ -13,6 +13,8 @@ DATE:27 July 2014
 ** Commit messages.
 ** Atomic commits.
 ** Remote connect to global repository
-** Fetch, Push methods
+** Fetch, Push methods and devices
+** conflict  methods
 ** Pull methods
+
 
