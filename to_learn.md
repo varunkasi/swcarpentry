@@ -11,3 +11,6 @@ Things we are learning at SWC
 ** Add files to git repos.
 ** Commit messages.
 ** Atomic commits.
+** Remote connect to global repository
+** Fetch, Push methods
+** Pull methods
