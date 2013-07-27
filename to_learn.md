@@ -15,3 +15,4 @@ Things we are learning at SWC
 ** Remote connect to global repository
 ** Fetch, Push methods
 ** Pull methods
+
