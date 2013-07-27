@@ -1,6 +1,6 @@
 Things we are learning at SWC
 =============================
-DATE:27 July 2014 for change
+DATE:27 July 2014 for change bdsads
 
 * shell
 ** ls
